@@ -1,0 +1,16 @@
+Pallavi R
+Email: pallavi@example.com | Phone: +91 98765 43210
+
+EDUCATION
+B.E. Computer Science and Engineering, SJC Institute of Technology, Chickballapur (2023 - 2027)
+Pre-University, Science, Bengaluru, 2023
+
+SKILLS
+Python, C, Java, SQL, Git, HTML, CSS
+
+PROJECTS
+- Student attendance tracker using Python and SQLite
+- Simple chatbot using Python and an LLM API
+
+INTERNSHIP
+Software Intern, working on LLM-based JSON extraction pipelines
